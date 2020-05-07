@@ -31,3 +31,9 @@ so our list in the end looks omething like this :
 - And our serial cable for Arduino
 
 so this list won't help without a layout for the connecctions. so let's draw !!!
+well this is what our circuit looks like
+![](screenshots/circuit_layout.png)
+
+now if you have ever worked with an arduino earlier you know that the circuit without a source code for the controller is well garbage!!!
+so let's get our head into some coding the code source file is [ARDUINO_PROG.ino](/ARDUINO_PROG.ino) it's simple c++ but let me explain the process.
+
