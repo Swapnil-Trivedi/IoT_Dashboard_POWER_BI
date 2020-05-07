@@ -64,6 +64,16 @@ How Python our simple old friend
 ### UPLOADING DATA TO PYTHON
 well if you're familiar with some networking modules in python this is going to be easy for you.
 The file is here [upload_script.py](/upload_script.py)
+well now we have a script ready to send data to our dashboard let's hook it up.
+
+- upload [Arduino_Prog.ino](/ARDUINO_PROG.ino) to your arduino
+- start the [Upload_script.py](/upload_script.py) and let it connect
+- launch your POWER BI Dashboard 
+#### and if you follow the code properly rather than simply copying it the results should look something like this 
+![](screenshots/dashboard_working.JPG)
+
+###### Well that's all there is to it.
+
 
 
 
